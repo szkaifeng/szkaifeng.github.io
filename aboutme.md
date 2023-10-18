@@ -2,7 +2,7 @@
 title: ""
 layout: post
 ---
-![LA2](/assets/LA1.jpg))
+![LA2](/assets/LA1.jpg)
 I study demography and sociology at the University of Pennsylvania.  
 
 I grew up in [Shenzhen](https://www.archdaily.com/932731/the-curious-history-and-beauty-of-shenzhens-urban-villages), a bustling megacity of migrants and opportunities in South China, where I completed my undergraduate degree in *Journalism*. It wasn't until many years after I left the city that I realized it was, at least back then, the most diverse city in China.  
