@@ -9,10 +9,8 @@ layout: post
 [(Online Appendix)](https://dup.silverchair-cdn.com/dup/Content_public/Journal/demography/60/5/10.1215_00703370-10925119/1/feng_esm.pdf?Expires=1700571655&Signature=IkA7bAshIEV1BsINTIlv~Y6R5vOMp2n4tGuLbGE1bdToX8eNMaUJLQ9-XIKytRmBAjX4Q9aHzsgVcxxV~n8bgF-p55zeFdr3sWctQ482b0u0wyR2f1TpBINrtVaqL4NiMhOR0P-kyF1ccqsRpFLTxrn80ySPjfgpPPpXxwKhd4B9DH5F1WkyyRZwU1Xj5Kg5i6FJuGImjTWfjKiwsD72Y0sEgRYjDgk-FwYEv2B~tWHz~HZ6v8JWrqrldtDE7jd8kUSVlvOhqInuXgH-lG64E5nYAvHsUzJFcziw1cZKIuZCfaN-RfjNINuKvyJL59tpPP1yR0DLv0mJo3D4UGk1Yg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) <br>
 
 *Data*: 
-<span style="color:grey">
-National Population Census of China 1990, 2000, 2010; Intercensal Survey 1995, 2005; China Health and Nutrition Survey 1989-2011 
-</span>
-<br>
+<span style="color: grey;"> National Population Census of China 1990, 2000, 2010; Intercensal Survey 1995, 2005; China Health and Nutrition Survey 1989-2011 </span>
+
 
 ## Under Review
 The Present and Future Dementia Caregiving Demand in China: Kinship-Based Projections and Global Comparisons  
