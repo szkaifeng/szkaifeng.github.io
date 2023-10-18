@@ -2,7 +2,7 @@
 title: ""
 layout: post
 ---
-
+![LA2](/assets/LA1.jpg))
 I study demography and sociology at the University of Pennsylvania.  
 
 I grew up in [Shenzhen](https://www.archdaily.com/932731/the-curious-history-and-beauty-of-shenzhens-urban-villages), a bustling megacity of migrants and opportunities in South China, where I completed my undergraduate degree in *Journalism*. It wasn't until many years after I left the city that I realized it was, at least back then, the most diverse city in China.  
@@ -22,8 +22,8 @@ I have been a big fan of rock and indie music, from both local and British bands
 I spend a lot of time indoors, working, thinking, and procrastinating, but deep down in my heart, I know I love the outdoors and nature. 
 
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
+Upload an image to the *assets* folder and embed it with `![title](/assets/LA2.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
 
 A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-
+![LA2](/assets/LA2.jpg))
 ![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
