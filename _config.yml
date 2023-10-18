@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md",title: "About"}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
-  - {file: "/kaifeng_cv.pdf", title: "CV"}
+  - {file: "CV_KaiFeng_2023_10.pdf", title: "CV"}
   
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
