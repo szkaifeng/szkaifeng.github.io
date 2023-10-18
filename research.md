@@ -1,10 +1,7 @@
 ---
 title: "Research"
 layout: post
-categories:
-  - publication
-  - under review
-  - working papers
+
 ---
 
 ## Publications
