@@ -15,7 +15,7 @@ I am interested in how inequality is produced, maintained, and strengthened duri
 
 Some specific research questions that I am working, including......
 
-My favorite food is [Chaoshan rice-roll](https://www.youtube.com/watch?v=w6J8JJ25RrE](https://www.youtube.com/watch?v=OOJsyC1Kpew), it is a totally different thing compared to Guangzhou rice-roll that is commonly served in almost every Dim Dum places in US Chinatown.  
+My favorite food is [Chaoshan rice-roll](https://www.youtube.com/watch?v=OOJsyC1Kpew), it is a totally different thing compared to Guangzhou rice-roll that is commonly served in almost every Dim Dum places in US Chinatown.  
 
 I have been a big fan of rock and indie music, from both local and British bands, since a very young age. Over the past several years, I've been addicted to the band [My Little Airport](https://hongkongfp.com/2021/11/19/a-dive-into-young-peoples-discontent-through-the-hong-kong-indie-band-my-little-airport/) from Hong Kong, and the band [Wu Tiao Ren](https://fairbank.fas.harvard.edu/events/what-chinas-coolest-rock-band-can-tell-us-about-the-nations-cultural-shifts/) from Haifeng. Both bands sing about the subtle joys and sorrows of everyday life in a plain yet poetic way, resonating with the experiences of ordinary people in a modern but uncertain society. Their songs are more sociological than many sociological theories that I wrote and studied. 
 
