@@ -13,11 +13,10 @@ layout: post
 
 
 ## Under Review
-<a href="Chinese_Kinship_MainText_Demography.pdf">
-The Present and Future Dementia Caregiving Demand in China: Kinship-Based Projections and Global Comparisons </a>  
+<a href="Chinese_Kinship_MainText_Demography.pdf">The Present and Future Dementia Caregiving Demand in China: Kinship-Based Projections and Global Comparisons </a>    
 **Kai Feng**, Xi Song, Hal Caswell  
 
-Kinship and Care: Racial Disparities in Dementia Caregiving in the U.S. from 2000 to 2060  
+<a href="Kinship_Care_Racial_Disparities.pdf"> Kinship and Care: Racial Disparities in Dementia Caregiving in the U.S. from 2000 to 2060 </a>  
 **Kai Feng**, Xi Song, Hal Caswell  
 
 ## Working Papers
