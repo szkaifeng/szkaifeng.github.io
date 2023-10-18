@@ -20,3 +20,10 @@ My favorite food is [Chaoshan rice-roll](https://www.youtube.com/watch?v=OOJsyC1
 I have been a big fan of rock and indie music, from both local and British bands, since a very young age. Over the past several years, I've been addicted to the band [My Little Airport (A dive into young people’s discontent through the Hong Kong indie band)](https://hongkongfp.com/2021/11/19/a-dive-into-young-peoples-discontent-through-the-hong-kong-indie-band-my-little-airport/) from Hong Kong, and the band [Wu Tiao Ren (What China’s Hottest Rock Band Can Tell Us About the Nation’s Cultural Shifts)](https://fairbank.fas.harvard.edu/events/what-chinas-coolest-rock-band-can-tell-us-about-the-nations-cultural-shifts/) from Haifeng. Both bands sing about the subtle joys and sorrows of everyday life in a plain yet poetic way, resonating with the experiences of ordinary people in a modern but an uncertain society. Their songs are more sociological than many sociological theories that I wrote and studied. 
 
 I spend a lot of time indoors, working, thinking, and procrastinating, but deep down in my heart, I know I love the outdoors and nature. 
+
+
+Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
+
+A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
+
+![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
