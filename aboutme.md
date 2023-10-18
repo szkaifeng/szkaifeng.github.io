@@ -2,7 +2,7 @@
 title: ""
 layout: post
 ---
-![LA2](/assets/LA1.jpg)
+
 I study demography and sociology at the University of Pennsylvania.  
 
 I grew up in [Shenzhen](https://www.archdaily.com/932731/the-curious-history-and-beauty-of-shenzhens-urban-villages), a megacity of migrants and opportunities in South China, where I completed my undergraduate degree in *Journalism*. It wasn't until many years after I left the city that I realized it was, at least back then, the most diverse city in China.  
@@ -13,7 +13,7 @@ After the DASA program, I went to the MAPSS program at UChicago, and later, a do
 
 I am interested in how inequality is produced, maintained, and strengthened during fast or slow social changes such as demographic transition, education expansion, and climate change.  
 
-Some specific research questions that I am working on:
+Some specific research questions that I am working on:  
   * 
   * 
   * 
