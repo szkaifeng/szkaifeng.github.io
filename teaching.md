@@ -8,7 +8,7 @@ title: "Teaching"
 
 
 ## Courses Taught
-Social Statistics (Undergrad, 2023 Summer), University of Pennsylvania  
+[Social Statistics (Undergrad, 2023 Summer)](https://www.lps.upenn.edu/courses/social-statistics/2023b), University of Pennsylvania [Syllabus](link)  
 
 ## Teaching Assistant
 Quantitative Method (Graduate, 2022 Fall), University of Pennsylvania  
