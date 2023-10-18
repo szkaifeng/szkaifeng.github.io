@@ -31,3 +31,7 @@ Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Ru
 
 
 ## Work in Progress
+
+
+![uchicago](/assets/uchicago.jpg)
+
