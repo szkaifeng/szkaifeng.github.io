@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://szkaifeng.github.io/kaifeng_cv_github.pdf", title: "CV"}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "about.md",title: "About"}
+  - {url: "https://szkaifeng.github.io/kaifeng_cv_github.pdf", title: "CV"}
   
   
   
