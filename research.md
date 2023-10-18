@@ -22,7 +22,7 @@ layout: post
 Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)  
 **Kai Feng**, Marco Laghi, Emily Hannum, Wang Fan 
 
-“Mapping the Cumulative Effects of Climate Change on Children’s Education in Sub-Saharan Africa”  
+[Mapping the Cumulative Effects of Climate Change on Children’s Education in Sub-Saharan Africa](https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/09/SukieandKai.pdf)
 Sukie Yang, **Kai Feng**
 
 Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions  
