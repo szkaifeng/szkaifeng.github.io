@@ -21,9 +21,5 @@ I have been a big fan of rock and indie music, from both local and British bands
 
 I spend a lot of time indoors, working, thinking, and procrastinating, but deep down in my heart, I know I love the outdoors and nature. 
 
+![LA2](/assets/LA2.jpg)
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/LA2.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-![LA2](/assets/LA2.jpg))
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
