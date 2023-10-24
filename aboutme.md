@@ -14,9 +14,9 @@ After the DASA program, I went to the MAPSS program at UChicago, and later, a do
 I am interested in how inequality is produced, maintained, and strengthened during fast or slow social changes such as demographic transition, education expansion, and climate change.  
 
 Some specific research questions that I am working on:  
-  * 
-  * 
-  * 
+  * How do social expectations and institutional constraints lead to women's early withdrawal from the labor market? How do population aging and changing family dynamics influence this trend? And what implications does this have for social and economic inequalities?
+  * Why does education expansion seem to result in more women in low-pay non-STEM fields? Is this truly the case? Additionally, why are women underrepresented in STEM fields in certain countries but not in others?
+  * How are environmental risks distributed among various population subgroups? How do intensified and unpredictable climate events impact human capital and well-being in low- and middle-income countries with limited adaptation capabilities? What are the key factors that alleviate these adverse impacts?
   
 My favorite food is [Chaoshan rice-roll](https://www.youtube.com/watch?v=OOJsyC1Kpew), which is a totally different thing compared to Guangzhou rice-roll that is commonly served in almost every Dim Dum places in US's Chinatown.  
 
