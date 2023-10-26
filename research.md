@@ -18,7 +18,7 @@ layout: post
 [Kinship and Care: Racial Disparities in Dementia Caregiving in the U.S. from 2000 to 2060](https://szkaifeng.github.io/Kinship_Care_Racial_Disparities.pdf)  
 **Kai Feng**, Xi Song, Hal Caswell  
 
-## Working Papers
+## Work in Progress
 [Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](https://szkaifeng.github.io/pdf/MnpPIRECEC.pdf)  
 **Kai Feng**, Marco Laghi, Emily Hannum, Wang Fan 
 
@@ -31,7 +31,7 @@ Sukie Yang, **Kai Feng**
 
 
 
-## Work in Progress
+
 
 
 ![uchicago](/assets/uchicago.jpg)
