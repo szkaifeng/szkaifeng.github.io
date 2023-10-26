@@ -23,7 +23,7 @@ layout: post
 **Kai Feng**, Marco Laghi, Emily Hannum, Wang Fan 
 
 [Mapping the Cumulative Effects of Climate Change on Children’s Education in Sub-Saharan Africa](https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/09/SukieandKai.pdf)  
-Sukie Yang, **Kai Feng** 
+Sukie Yang, **Kai Feng**  
 [Data Virtualization](https://szkaifeng.github.io/climate_africa.github.io/)
 
 [Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://szkaifeng.github.io/pdf/PathwaysToInclusionExclusion_draft.pdf)   
