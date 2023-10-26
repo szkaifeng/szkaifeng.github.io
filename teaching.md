@@ -5,7 +5,8 @@ title: "Teaching"
 ---
 
 ## Teaching Interests
-Social Demography, Demographic Methods, Population and Environment, Statistics, Social Stratification, Work and Family
+Social Demography, Population and Environment, Population Health, Aging, Social Stratification  
+Demographic Methods, Statistics  
 
 ## Courses Taught
 [Social Statistics (Undergrad, 2023 Summer)](https://www.lps.upenn.edu/courses/social-statistics/2023b), University of Pennsylvania [Syllabus](link)  
