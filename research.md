@@ -14,20 +14,34 @@ layout: post
 ## Under Review
 [The Present and Future Dementia Caregiving Demand in China: Kinship-Based Projections and Global Comparisons](https://szkaifeng.github.io/Chinese_Kinship_MainText_Demography.pdf)  
 **Kai Feng**, Xi Song, Hal Caswell  
+*Data*: 
+<span style="color: grey;"> Global Burden of Disease Study 2019; World Population Prospects 2022 </span>
+
 
 [Kinship and Care: Racial Disparities in Dementia Caregiving in the U.S. from 2000 to 2060](https://szkaifeng.github.io/Kinship_Care_Racial_Disparities.pdf)  
 **Kai Feng**, Xi Song, Hal Caswell  
+*Data*: 
+<span style="color: grey;"> U.S. Vital Statistics; Health and Retirement Study </span>
+
 
 ## Work in Progress
 [Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](https://szkaifeng.github.io/pdf/MnpPIRECEC.pdf)  
 **Kai Feng**, Marco Laghi, Emily Hannum, Wang Fan 
+*Data*: 
+<span style="color: grey;"> China County Population Census; ECMWF Reanalysis v5 (ERA5) </span>
+
 
 [Mapping the Cumulative Effects of Climate Change on Children’s Education in Sub-Saharan Africa](https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/09/SukieandKai.pdf)  
 Sukie Yang, **Kai Feng**  
-[Data Virtualization](https://szkaifeng.github.io/climate_africa.github.io/)
+[Data Virtualization](https://szkaifeng.github.io/climate_africa.github.io/)  
+*Data*: 
+<span style="color: grey;"> Demographic and Health Survey </span>
 
 [Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://szkaifeng.github.io/pdf/PathwaysToInclusionExclusion_draft.pdf)   
 **Kai Feng**, Emily Hannum 
+*Data*: 
+<span style="color: grey;"> Gansu Survey of Children and Families; China Labor-force Dynamic Survey </span>
+
 
 
 
