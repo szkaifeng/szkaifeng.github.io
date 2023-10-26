@@ -19,11 +19,12 @@ layout: post
 **Kai Feng**, Xi Song, Hal Caswell  
 
 ## Working Papers
-Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)  
+[Rising Temperatures, Rising Risks: A Three-Decade Analysis of Children’s Heat Exposure in China (1990-2020)](https://szkaifeng.github.io/pdf/MnpPIRECEC.pdf) 
 **Kai Feng**, Marco Laghi, Emily Hannum, Wang Fan 
 
 [Mapping the Cumulative Effects of Climate Change on Children’s Education in Sub-Saharan Africa](https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/09/SukieandKai.pdf)  
-Sukie Yang, **Kai Feng**
+Sukie Yang, **Kai Feng** 
+[Data Virtualization](https://szkaifeng.github.io/climate_africa.github.io/)
 
 Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions  
 **Kai Feng**, Emily Hannum 
