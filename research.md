@@ -34,11 +34,11 @@ layout: post
 [Mapping the Cumulative Effects of Climate Change on Children’s Education in Sub-Saharan Africa](https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/09/SukieandKai.pdf)  
 Sukie Yang, **Kai Feng**  
 [Data Virtualization](https://szkaifeng.github.io/climate_africa.github.io/)  
-*Data*: 
+*Data*:  
 <span style="color: grey;"> Demographic and Health Survey </span>
 
 [Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://szkaifeng.github.io/pdf/PathwaysToInclusionExclusion_draft.pdf)   
-**Kai Feng**, Emily Hannum 
+**Kai Feng**, Emily Hannum  
 *Data*: 
 <span style="color: grey;"> Gansu Survey of Children and Families; China Labor-force Dynamic Survey </span>
 
