@@ -26,7 +26,7 @@ layout: post
 Sukie Yang, **Kai Feng** 
 [Data Virtualization](https://szkaifeng.github.io/climate_africa.github.io/)
 
-Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions  
+[Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://szkaifeng.github.io/pdf/PathwaysToInclusionExclusion_draft.pdf)   
 **Kai Feng**, Emily Hannum 
 
 
