@@ -5,6 +5,9 @@ layout: post
 ---
 
 ### Perfect days
+[The Present and Future Dementia Caregiving Demand in China: Kinship-Based Projections and Global Comparisons](https://szkaifeng.github.io/Chinese_Kinship_MainText_Demography.pdf)  
+
+
 
 ## Publications
 **Kai Feng** (2023). [Unequal Duties and Unequal Retirement: Decomposing the Women's Labor Force Decline in Postreform China](https://read.dukeupress.edu/demography/article/60/5/1309/381393). **Demography**, 60(5), 1309-1333. 
