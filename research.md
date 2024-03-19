@@ -10,7 +10,7 @@ layout: post
 *Data*: 
 <span style="color: grey;"> National Population Census of China 1990, 2000, 2010; Intercensal Survey 1995, 2005; China Health and Nutrition Survey 1989-2011 </span>
 
-**Kai Feng**, Xi Song, Hal Caswell (2024) [Kinship and Care: Racial Disparities in Potential Dementia Caregiving in the U.S. from 2000 to 2060](https://szkaifeng.github.io/Kinship_Care_Racial_Disparities.pdf)  **Journal of Gerontology: Medical Science**
+**Kai Feng**, Xi Song, Hal Caswell (forthcoming). [Kinship and Care: Racial Disparities in Potential Dementia Caregiving in the U.S. from 2000 to 2060](https://szkaifeng.github.io/Kinship_Care_Racial_Disparities.pdf).  **Journal of Gerontology: Medical Science**. <br>
 *Data*: 
 <span style="color: grey;"> U.S. Vital Statistics; Health and Retirement Study </span>
 
