@@ -2,7 +2,7 @@
 title: "Perfect Days"
 layout: post
 ---
-电影《窃听风暴》里最让我动容的片段无疑是结尾处(https://www.youtube.com/watch?v=KG6IN1GzUHE)。曾经为史塔西工作的Wiesler，在书店柜台前准备买下那本记录HGW XX/7经历的书时，当店员问，“这书需要包装送人吗(Shall I gift-wrap it)？”Wiesler回到，“不，这本书是给我的(No, it is for me)。”\footnote{据说在真实的东德历史上，从未出现过Wiesler这般辛德勒式的人物。}
+电影《窃听风暴》里最让我动容的片段无疑是结尾处(https://www.youtube.com/watch?v=KG6IN1GzUHE)。曾经为史塔西工作的Wiesler，在书店柜台前准备买下那本记录HGW XX/7经历的书时，当店员问，“这书需要包装送人吗(Shall I gift-wrap it)？”Wiesler回到，“不，这本书是给我的(No, it is for me)。”\footnote{据说在真实的东德历史上，史塔西从未出现过Wiesler这般辛德勒式的人物。}
 
 当我看完Wim Wenders执导的Perfect Days，我强烈的觉得，这部电影是给我这样的人的(礼物)。导演仿佛窥探了我的生活，并将它换了面貌，以日本东京的厕所清洁工为角色，展现到世人面前。这么说或许听起来有些狂妄自大，电影理应是喜欢它的观众共有的礼物。但我感到和主人公Hirayama强烈的连接和共鸣，是以往未有。当然，我的生活远不如主人公Hirayama那般的井井有条(我是一个P人)。
 
