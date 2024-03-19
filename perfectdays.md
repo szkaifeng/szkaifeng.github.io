@@ -1,6 +1,6 @@
 ---
 title: "Perfect Days"
-layout: post
+layout: page
 ---
 电影《窃听风暴》里最让我动容的片段无疑是结尾处。曾经为史塔西工作的Wiesler，在书店柜台前准备买下那本记录HGW XX/7经历的书时，当店员问，“这是买给谁的礼物吗？”Wiesler回到，“不，这是给我自己的（礼物）。”\footnote{据说在真实的东德历史上，从未出现过Wiesler这般辛德勒式的人物。}
 
