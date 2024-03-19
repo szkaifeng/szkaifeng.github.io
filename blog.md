@@ -3,7 +3,7 @@ title: "Thoughts"
 layout: post
 ---
 
-### [Perfect days](/_posts/20240318_PerfectDays.md)  
+### [Perfect days](https://szkaifeng.github.io/2024/03/18/PerfectDays/)  
 
 
 
