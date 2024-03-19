@@ -5,7 +5,7 @@ layout: post
 ---
 
 ### Perfect days
-[The Present and Future Dementia Caregiving Demand in China: Kinship-Based Projections and Global Comparisons](https://szkaifeng.github.io/Chinese_Kinship_MainText_Demography.pdf)  
+[Perfect days](https://szkaifeng.github.io/_posts/20240318_PerfectDays.md)  
 
 
 
