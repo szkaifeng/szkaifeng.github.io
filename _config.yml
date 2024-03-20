@@ -1,6 +1,8 @@
 title: "Kai Feng"
 author: "Kai Feng"
 description: "University of Pennsylvania   |   kaifeng@sas.upenn.edu"
+baseurl: "/my-blog"
+url: "https://szkaifeng.github.io"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
