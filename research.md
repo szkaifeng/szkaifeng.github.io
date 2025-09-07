@@ -14,7 +14,7 @@ layout: post
 *Data*: 
 <span style="color: grey;"> U.S. Vital Statistics; Health and Retirement Study </span>
 
-**Kai Feng**, Emily Hannum (2024). [Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://journals.sagepub.com/doi/full/10.1177/2057150X241254905)   
+**Kai Feng**, Emily Hannum (2024). [Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://journals.sagepub.com/doi/full/10.1177/2057150X241254905). **Chinese Journal of Sociology**   
 *Data*: 
 <span style="color: grey;"> Gansu Survey of Children and Families; China Labor-force Dynamic Survey </span>
 
