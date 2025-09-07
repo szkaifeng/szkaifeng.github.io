@@ -10,9 +10,14 @@ layout: post
 *Data*: 
 <span style="color: grey;"> National Population Census of China 1990, 2000, 2010; Intercensal Survey 1995, 2005; China Health and Nutrition Survey 1989-2011 </span>
 
-**Kai Feng**, Xi Song, Hal Caswell (forthcoming). [Kinship and Care: Racial Disparities in Potential Dementia Caregiving in the U.S. from 2000 to 2060](https://szkaifeng.github.io/Kinship_Care_Racial_Disparities.pdf).  **Journal of Gerontology: Medical Science**. <br>
+**Kai Feng**, Xi Song, Hal Caswell (2024). [Kinship and Care: Racial Disparities in Potential Dementia Caregiving in the U.S. from 2000 to 2060](https://academic.oup.com/biomedgerontology/article/79/Supplement_1/S32/7655370?login=false).  **Journal of Gerontology: Medical Science**. <br>
 *Data*: 
 <span style="color: grey;"> U.S. Vital Statistics; Health and Retirement Study </span>
+
+**Kai Feng**, Emily Hannum (2024). [Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://journals.sagepub.com/doi/full/10.1177/2057150X241254905)   
+*Data*: 
+<span style="color: grey;"> Gansu Survey of Children and Families; China Labor-force Dynamic Survey </span>
+
 
 
 ## Under Review
@@ -36,10 +41,6 @@ Sukie Yang, **Kai Feng**
 *Data*: 
 <span style="color: grey;"> Demographic and Health Survey </span>
 
-[Pathways to Inclusion or Exclusion in China: Transitions to Adulthood in Poor Rural Regions](https://szkaifeng.github.io/pdf/PathwaysToInclusionExclusion_draft.pdf)   
-**Kai Feng**, Emily Hannum  
-*Data*: 
-<span style="color: grey;"> Gansu Survey of Children and Families; China Labor-force Dynamic Survey </span>
 
 
 
