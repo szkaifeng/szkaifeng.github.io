@@ -3,7 +3,7 @@ title: ""
 layout: post
 ---
 ![LA2](/assets/LA1.jpg)
-I study demography and sociology at the University of Pennsylvania.  
+<!--I study demography and sociology at the University of Pennsylvania.  
 
 I grew up in [Shenzhen](https://www.archdaily.com/932731/the-curious-history-and-beauty-of-shenzhens-urban-villages), a megacity of migrants and opportunities in South China, where I completed my undergraduate degree in *Journalism*. It wasn't until many years after I left the city that I realized it was, at least back then, the most diverse city in China.  
 
@@ -24,6 +24,6 @@ I've been a big fan of rock and indie music since a very young age. Over the pas
 <!--Their songs are more sociological than many sociological theories that I wrote and studied. -->
 
 I spend a lot of time indoors, working, thinking, and procrastinating, but deep down in my heart, I know I love the outdoors and nature. 
-
+-->
 ![LA2](/assets/LA2.jpg)
 
