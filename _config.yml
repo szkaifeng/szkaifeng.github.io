@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md",title: "About"}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
-  - {file: "blog.md", title: "Thoughts"}
+  #- {file: "blog.md", title: "Thoughts"}
   - {url: "https://szkaifeng.github.io/kaifeng_cv_github.pdf", title: "CV"}
   
   
