@@ -6,7 +6,7 @@ layout: post
 
 ## Publications
 **Kai Feng**, Marco Laghi, Jere Behrman, Emily Hannum, Wang Fan (2026).
-Rising Temperatures, Shifting Population: Changes in Children’s Ambient Heat Exposure in China](https://www.pnas.org/doi/epdf/10.1073/pnas.2615409123)
+Rising Temperatures, Shifting Population: Changes in Children’s Ambient Heat Exposure in China](https://www.pnas.org/doi/10.1073/pnas.2615409123)
 
 *Data*: 
 <span style="color: grey;"> China County Population Census; ECMWF Reanalysis v5 (ERA5) </span>
